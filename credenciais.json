@@ -1,0 +1,8 @@
+{
+    "email": {
+        "imap_server": "imap.gmail.com",
+        "email_address": "DIGITE AQUI SEU E-MAIL",
+        "password": "DIGITE AQUI A SENHA DO SEU E-MAIL",
+        "target_email_subject": "DIGITE AQUI O ASSUNTO DO E-MAIL QUE DESEJA BAIXAR OS ANEXOS"
+    }
+}
